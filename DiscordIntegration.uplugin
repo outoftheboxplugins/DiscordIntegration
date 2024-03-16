@@ -1,0 +1,15 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DiscordIntegration",
+	"Description": "Example of integration the Discord C++ SDK into Unreal Engine",
+	"Category": "Other",
+	"Modules": [
+		{
+			"Name": "DiscordIntegration",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
